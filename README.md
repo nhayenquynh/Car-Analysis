@@ -7,4 +7,6 @@ https://github.com/nhayenquynh/sprint_4_project.git
 
 For streamlit: enter "streamlit run app.py" in terminal and it'll give you a local URL. enter local URL into browser and project should be displayed 
 
-To view my web app project: https://quynhs-sprint-4-project.onrender.com
+URL: http://0.0.0.0:10000
+
+My render URL: https://quynhs-sprint-4-project.onrender.com
