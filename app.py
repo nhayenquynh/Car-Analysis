@@ -6,7 +6,7 @@ st.title("Sprint 4 Project: Analyzing Car Advertising Dataset")
 
 st.markdown('Introduction: This project is to analyze a dataset of cars that is collected from 1970s-2010s. I will analyze the most common types of vehicles, how much revenue each year made, and the correlation between the numbers of cyclinder and cost.')
 
-df =pd.read_csv('/Users/quynhnguyen/Desktop/sprint_4_project/vehicles_us.csv')
+df =pd.read_csv('vehicles_us.csv')
 
 st.write(df.head(5))
 
